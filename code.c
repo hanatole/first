@@ -1,8 +1,6 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include "code.h"
 
-int main(int argc, char *argv[]){
-	print("Welcome on github!!\n");
-	print("Nice to meet you!!\n);
-	return 0;
+void hello(){
+	printf("Welcome on github!!\n");
+	printf("Nice to meet you!!\n");
 }
